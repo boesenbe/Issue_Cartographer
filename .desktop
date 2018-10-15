@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to 
+Type=Link
+URL=file:///home/spluser/catkin_ws/src/cartographer_ros/ros_modules/nodna_description/launch/mapping_cartographer.launch
+Icon=text-html
